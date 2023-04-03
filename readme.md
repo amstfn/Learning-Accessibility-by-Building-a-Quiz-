@@ -1,3 +1,5 @@
+#here is a list of my every steps for creating this paeg!
+
 1-
 (line 7)Another important meta element for accessibility and SEO is 
 the description definition. The value of the content attribute is used 
