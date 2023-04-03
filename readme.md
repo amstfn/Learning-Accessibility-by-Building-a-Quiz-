@@ -1,4 +1,4 @@
-#here is a list of my every steps for creating this paeg!
+#here is a list of my every steps for creating this page!
 
 1-
 (line 7)Another important meta element for accessibility and SEO is 
